@@ -1,0 +1,32 @@
+body {
+  margin: 0px;
+}
+.card_background {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  height: 55vh;
+  background-color: #cffafe;
+  background-size: cover;
+  border-radius: 4px;
+  width: 35%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-text {
+  font-weight: 200;
+}
+.card-profile {
+  height: 18vh;
+}
+.watch-image {
+  height: 15vh;
+}
